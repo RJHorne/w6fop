@@ -1,5 +1,9 @@
 # Workshop 6
 
+For each section you should put code in the corresponding python file. 
+I have also attached images of the effective state machines for each part if that helps you understand the flow of each task.
+
+
 ## Part 1: Geological Sampling (Lists)
 
 
